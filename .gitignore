@@ -1,0 +1,12 @@
+
+# for Ruby
+.bundle
+vendor/bundle
+Gemfile.lock
+
+# for Mac
+.DS_Store
+
+# for emacs
+*~
+
